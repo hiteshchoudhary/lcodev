@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap");
+body {
+  background-color: #0e101a;
+  color: #fff;
+}
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.heading {
+  font-family: "JetBrains Mono", monospace;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: dotted;
+  color: #fff;
+}
+
+.purple {
+  background-color: #650680;
+}
+
+.yt {
+  background-color: #b4161b;
+}
